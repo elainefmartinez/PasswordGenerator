@@ -13,3 +13,5 @@ Credits: https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN
 Also utilized previous examples from Javascript lessons from class
+
+https://elainefmartinez.github.io/PasswordGenerator/
